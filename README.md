@@ -2,6 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2603.xxxxx-B31B1B.svg)](https://arxiv.org/abs/2603.xxxxx)
 [![License: arXiv Perpetual](https://img.shields.io/badge/License-arXiv%20Perpetual-blue.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/1174865346.svg)](https://doi.org/10.5281/zenodo.18911697)
 
 ## Overview
 
